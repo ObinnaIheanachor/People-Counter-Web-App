@@ -3,8 +3,9 @@
 | Details            |              |
 |-----------------------|---------------|
 | Programming Language: |  Python 3.5 or 3.6 |
+| Intel OpenVINO ToolKit: |[![OpenVINO 2020.2.120](https://img.shields.io/badge/openvino-2020.2-blue.svg)](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/choose-download.html)|
 
-![people-counter-python](./images/people-counter-image.png)
+![people-counter-python](https://user-images.githubusercontent.com/7910856/87838133-3b136d80-c896-11ea-80f4-7a88aafac6c4.gif)
 
 ## What it Does
 
