@@ -201,3 +201,5 @@ CAMERA_FEED_SERVER: "http://localhost:3004"
 ...
 MQTT_SERVER: "ws://localhost:3002"
 ```
+## License
+)The contents of this repository are covered under the [MIT License](https://github.com/ObinnaIheanachor/People-Counter-Web-App/blob/master/LICENSE)
